@@ -8,10 +8,9 @@
         <version>2.3.3.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.hsbc</groupId>
-    <artifactId>tuling</artifactId>
+    <groupId>com.hsbc.tuling</groupId>
+    <artifactId>Java-Architecture-Training</artifactId>
     <version>0.0.1</version>
-    <name>tuling</name>
     <description>Spring Boot</description>
 
     <properties>
